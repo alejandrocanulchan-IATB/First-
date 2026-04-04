@@ -58,7 +58,12 @@ This project develops a data-driven anomaly detection framework to identify susp
 
 ## 📁 Repository Structure
 
+## 🚀 How to Run This Project
 
+### 1. Clone the repository
+```bash
+git clone https://github.com/alejandrocanulchan-IATB/First-.git
+cd First-
 
 ---
 
